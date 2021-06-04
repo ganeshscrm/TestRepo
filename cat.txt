@@ -1,0 +1,28 @@
+ChatBot - Ashis and subham, soham
+
+eKYC- OCR - Google API and MS API - Ashish
+AI - Detecting Fruad Driviling Licenses -  Document and Secimen related are to be managed in google drive
+AI- liveness Detection
+
+Integration with NSDL/Addhar- JS background Anyone can do
+Vedio KYC: No AI (gipsy and rocket chat)
+
+Release Notes for all products
+
+Entire Walktrough - Recorded Demos 
+
+Cobrowsing- Js- Ashish did it no dependecies on Saurabh
+
+Admin panels - KT 
+
+PLI/CLI no dependecy
+fairfirst - motor claim AI - Images-- Suarabh to handover the working program.
+
+wildcraft - KT - walk thru has to be provided- Anusha and Ganesh to be involved
+
+
+
+
+
+
+
